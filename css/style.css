@@ -1,0 +1,89 @@
+body {
+    background-color: #000000;
+}
+.container {
+    position: relative;
+    width: 360px;
+    height: 360px;
+}
+.square {
+    position: absolute;
+    width: 117px;
+    height: 117px;
+    border: 2px solid #ffffff;
+}
+.circle {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    left: 25%;
+    bottom: 25%;
+    border: 1px solid #000000;
+    border-radius: 50%;
+}
+#square1 {
+    background-color: #ff0000;
+}
+#circle1 {
+    background-color: #ffb2b2;
+}
+#square2 {
+    background-color: #0000ff;
+    left: 120px;
+}
+#circle2 {
+    background-color: #9b9b9b;
+}
+#square3 {
+    background-color: #019801;
+    right: 0px;
+}
+#circle3 {
+    background-color: #a0007b;
+}
+#square4 {
+    background-color: #ffff00;
+    top: 120px;
+}
+#circle4 {
+    background-color: #019801;
+}
+#square5 {
+    background-color: #000000;
+    left: 120px;
+    top: 120px;
+}
+#circle5 {
+    background-color: #ff0000;
+}
+#square6 {
+    background-color: #ffb100;
+    right: 0px;
+    top: 120px;
+}
+#circle6 {
+    background-color: #0000ff;
+}
+#square7 {
+    background-color: #a0007b;
+    bottom: 0px;
+}
+#circle7 {
+    background-color: #ffb100;
+}
+#square8 {
+    background-color: #9b9b9b;
+    bottom: 0px;
+    left: 120px;
+}
+#circle8 {
+     background-color: #ff0;
+}
+#square9 {
+    background-color: #ffb2b2;
+    bottom: 0px;
+    right: 0px;
+}
+#circle9 {
+    background-color: #000000;
+}
