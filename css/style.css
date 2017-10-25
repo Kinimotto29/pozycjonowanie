@@ -8,8 +8,8 @@ body {
 }
 .square {
     position: absolute;
-    width: 117px;
-    height: 117px;
+    width: 33%;
+    height: 33%;
     border: 2px solid #ffffff;
 }
 .circle {
@@ -29,7 +29,7 @@ body {
 }
 #square2 {
     background-color: #0000ff;
-    left: 120px;
+    left: 33%;
 }
 #circle2 {
     background-color: #9b9b9b;
@@ -43,23 +43,23 @@ body {
 }
 #square4 {
     background-color: #ffff00;
-    top: 120px;
+    top: 33%;
 }
 #circle4 {
     background-color: #019801;
 }
 #square5 {
     background-color: #000000;
-    left: 120px;
-    top: 120px;
+    left: 33%;
+    top: 33%;
 }
 #circle5 {
     background-color: #ff0000;
 }
 #square6 {
     background-color: #ffb100;
-    right: 0px;
-    top: 120px;
+    right: 0;
+    top: 33%;
 }
 #circle6 {
     background-color: #0000ff;
@@ -74,7 +74,7 @@ body {
 #square8 {
     background-color: #9b9b9b;
     bottom: 0px;
-    left: 120px;
+    left: 33%;
 }
 #circle8 {
      background-color: #ff0;
